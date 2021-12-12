@@ -1,0 +1,10 @@
+@import './ScssStyle/fontsize.scss';
+
+p {
+    color: $test-color;
+  }
+
+  div{
+      color: $primary-color;
+      font-family: $font-stack;
+  }
